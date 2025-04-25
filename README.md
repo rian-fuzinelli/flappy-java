@@ -1,11 +1,39 @@
-## This project is a creation of the Pacman 2D Game with Java using AWT and Swing for GUI technologies.
+# 👾 🟡 👻 Pacman
 
-Technologies:
+🕹️ This project is a full recreation of the classic **Flappy Bird** game developed in **Java** using **AWT** and **Swing** libraries. It features core gameplay mechanics such as player movement, ghost AI, collectible pellets, and game-over logic — all implemented from scratch. The goal was to explore object-oriented programming and GUI development in Java while recreating a nostalgic arcade experience.
 
-- IntelliJ IDEA
-- AWT
-- Swing
-- Java
+## 💡 Modules Overview 
 
-## 📱🕹️🐤 `Flappy Bird`
+- Java (JDK 21 or later)
+- AWT (Abstract Window Toolkit)
+- Swing (Java Foundation Classes)
+
+## 🎲 Main features
+- GUI-Based Game Interface
+- Real-Time Animation
+- Player Control with Keyboard Input
+- Collision Detection
+- Randomized Pipe Generation
+
+_Run the project locally by following the steps below 👇_
+
+1. Install JDK (21 or later) using some IDE
+2. Clone the repo
+   ```sh
+   git clone https://github.com/rian-fuzinelli/flappy-java.git
+   cd flappy-java
+   ```
+
+## 🚀 Screenshot
 ![image](https://github.com/user-attachments/assets/0baf959e-28b9-498e-ba48-9f4861f87af3)
+
+## 📄 Top Contribuitor & License
+
+<img src="https://avatars.githubusercontent.com/u/144074554?v=4"
+     style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid red; object-fit: cover;"
+     alt="Avatar">
+
+
+
+Distributed under the [MIT License](https://opensource.org/licenses/MIT).
+
