@@ -1,6 +1,6 @@
 # 🚩 🎮 🐤 Flappy Bird
 
-🕹️ This project is a Java-based clone of the popular mobile game **Flappy Bird**, built using the **AWT** (Abstract Window Toolkit) and **Swing** libraries. It provides a lightweight, GUI-driven version of the game that runs on desktop environments without requiring any external frameworks.
+🕹️ This project is a **Java**-based clone of the popular mobile game **Flappy Bird**, built using the **AWT** (Abstract Window Toolkit) and **Swing** libraries. It provides a lightweight, GUI-driven version of the game that runs on desktop environments without requiring any external frameworks.
 
 ## 💡 Modules Overview 
 
