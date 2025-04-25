@@ -1,4 +1,4 @@
-# 👾 🟡 👻 Pacman
+# 🚩 🎮 🐤 Flappy Bird
 
 🕹️ This project is a full recreation of the classic **Flappy Bird** game developed in **Java** using **AWT** and **Swing** libraries. It features core gameplay mechanics such as player movement, ghost AI, collectible pellets, and game-over logic — all implemented from scratch. The goal was to explore object-oriented programming and GUI development in Java while recreating a nostalgic arcade experience.
 
