@@ -1,6 +1,6 @@
 # 🚩 🎮 🐤 Flappy Bird
 
-🕹️ This project is a full recreation of the classic **Flappy Bird** game developed in **Java** using **AWT** and **Swing** libraries. It features core gameplay mechanics such as player movement, ghost AI, collectible pellets, and game-over logic — all implemented from scratch. The goal was to explore object-oriented programming and GUI development in Java while recreating a nostalgic arcade experience.
+🕹️ This project is a Java-based clone of the popular mobile game **Flappy Bird**, built using the **AWT** (Abstract Window Toolkit) and **Swing** libraries. It provides a lightweight, GUI-driven version of the game that runs on desktop environments without requiring any external frameworks.
 
 ## 💡 Modules Overview 
 
